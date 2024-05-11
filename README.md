@@ -35,12 +35,6 @@ On running application successfully, following actions can be performed:
 - Responsive design: Adaptation to various devices and sizes of screen.
 
 
-## Troubleshooting
-For issues, consider these steps:
-- Check the browser console for error messages.
-- Verify all dependencies are correctly installed.
-- Ensure a supported web browser is being used.
-
 ## Authors
 
 - [@Pratibha0280](https://github.com/Pratibha0280)
